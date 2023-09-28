@@ -1,0 +1,9 @@
+git init
+git status
+git rm --cached
+git commit -m
+git log
+git restore
+git log --oneline --pretty
+git log show
+git branch checkout -b dev
